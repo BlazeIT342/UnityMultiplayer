@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bae3aac9aa107dd4798e914f1dd2cfe9, type: 3}
+  m_Name: Meat Hook
+  m_EditorClassIdentifier: 
+  Name: Meat Hook
+  icone: {fileID: 21300000, guid: 64de83c4f1fe8a74aafd525bfefaaa6f, type: 3}
+  cooldown: 3
