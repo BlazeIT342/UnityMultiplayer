@@ -7,7 +7,6 @@ That's a project where you and other people can create a server, join to it and 
 
 (*It's not a game, just showing **Multiplayer** features*).
 
-For example, you can shoot or jump and all people of your server **will see it**.
 
 ### Project contains : 
 * Unity Relay
