@@ -1,6 +1,6 @@
 # UnityMultiplayer
 ## Idea
-My aim was to learn how add **Multiplayer** in games. 
+My aim was to learn how to add **Multiplayer** in games. 
 
 ## About
 That's a project where you and other people can create a server, join to it and play together. 
